@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "浴槽とネオンテトラ",
+  "base_artist": "REISAI",
+  "createdAt": "2026-01-05T14:24:43.759215Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浴槽とネオンテトラ",
+      "artist": "REISAI",
+      "has_synced": false,
+      "path": "select/pl_01_浴槽とネオンテトラ_REISAI.txt"
+    }
+  ]
+}
